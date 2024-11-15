@@ -4,7 +4,6 @@ public class Main {
 // greetUser(); // Removed this line to introduce a bug
     }
 
-    
     public static void greetUser() {
         System.out.println("Hello, User!");
     }
